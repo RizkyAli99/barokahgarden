@@ -1,0 +1,41 @@
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.541),rgba(0, 0, 0, 0.555)), url(bg\ depan.jpg);
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 75%;
+    width: 150px;
+    margin: 20px;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 35px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+footer {
+    background-color: #2f302f;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+  }
+
+  h5 {
+    color: #202020;
+  }
+
+  h6 {
+    color: #fff;
+  }
